@@ -1,0 +1,310 @@
+{
+  "heim": [
+    {
+      "id": 0,
+      "name": "Balingen",
+      "rusName": "Балинген",
+      "desc": "Не Хайм , а бывший частный дом!!!! ",
+      "link": "https://youtu.be/qYuR6VKIsdI",
+      "bundesId": "Baden"
+    },
+    {
+      "id": 1,
+      "name": "Jestetten",
+      "rusName": "Йештеттен",
+      "desc": "На границе со Швейцарией.",
+      "link": "https://youtu.be/GQMbFALq3Ds",
+      "bundesId": "Baden"
+    },
+    {
+      "id": 2,
+      "name": "Konstants",
+      "rusName": "Констанц",
+      "desc": "Город-курорт на Боденском озере.",
+      "link": "https://youtu.be/pyPrQdBRO2k",
+      "bundesId": "Baden"
+    },
+    {
+      "id": 3,
+      "name": "Reinfelden",
+      "rusName": "Райнфельден",
+      "desc": "Часть города это уже Швейцария.",
+      "link": "https://youtu.be/Zc_7KZZ7VZU",
+      "bundesId": "Baden"
+    },
+    {
+      "id": 4,
+      "name": "Hausen",
+      "rusName": "Хаузен(окраина Форхайма)",
+      "desc": "Бывший частный дом.",
+      "link": "https://youtu.be/f83FD7JHGwk",
+      "bundesId": "Bayern"
+    },
+    {
+      "id": 5,
+      "name": "Preisach",
+      "rusName": "деревня(2 км до Прейсих)",
+      "desc": "Бывший частный дом.",
+      "link": "https://youtu.be/CLI9xiccMvM",
+      "bundesId": "Bayern"
+    },
+    {
+      "id": 6,
+      "name": "Shweinfurt",
+      "rusName": "Швайнфурт",
+      "desc": "Более 50 тыс. 44 км до Вюрцбурга.",
+      "link": "https://youtu.be/Qyzv2i0Pk8k",
+      "bundesId": "Bayern"
+    },
+    {
+      "id": 7,
+      "name": "Wertingen",
+      "rusName": "Вертинген",
+      "desc": "80км. Ингольдштадт",
+      "link": "https://youtu.be/vASM72H3D3w",
+      "bundesId": "Bayern"
+    },
+    {
+      "id": 8,
+      "name": "Landshut",
+      "rusName": "Ландсхут",
+      "desc": "70 км до Мюнхена.",
+      "link": "https://youtu.be/0cCcbzWxEYc",
+      "bundesId": "Bayern"
+    },
+    {
+      "id": 9,
+      "name": "Noiburg",
+      "rusName": "Нойбург на Дунае",
+      "desc": "20км. Ингольдштадт",
+      "link": "https://youtu.be/Gr8_b-t0mYE",
+      "bundesId": "Bayern"
+    },
+    {
+      "id": 10,
+      "name": "Berlin1",
+      "rusName": "Берлин1",
+      "desc": "Хайм",
+      "link": "https://youtu.be/gt497Uvc7eo",
+      "bundesId": "Berlin"
+    },
+    {
+      "id": 11,
+      "name": "Berlin2",
+      "rusName": "Берлин2",
+      "desc": "Хайм",
+      "link": "https://youtu.be/qTt1nBn16Pw",
+      "bundesId": "Berlin"
+    },
+    {
+      "id": 12,
+      "name": "Kenigs",
+      "rusName": "Кёнигс Вустерхаузен",
+      "desc": "Социальная квартира.",
+      "link": "https://youtu.be/EHenR7WOnLI",
+      "bundesId": "Brandenburg"
+    },
+    {
+      "id": 13,
+      "name": "Kassel",
+      "rusName": "Кассель",
+      "desc": "200 тыс. население. Хайм.",
+      "link": "https://youtu.be/chhFiVROLGg",
+      "bundesId": "Hessen"
+    },
+    {
+      "id": 14,
+      "name": "Gustrov",
+      "rusName": "Гюстров",
+      "desc": "Хайм",
+      "link": "https://youtu.be/UR8b9jH4FbA",
+      "bundesId": "Mecklenburg"
+    },
+    {
+      "id": 15,
+      "name": "Shverin",
+      "rusName": "Шверин",
+      "desc": "Социальная квартира",
+      "link": "https://youtu.be/lMiwm4JOuMc",
+      "bundesId": "Mecklenburg"
+    },
+    {
+      "id": 16,
+      "name": "Getingen",
+      "rusName": "Геттинген",
+      "desc": "Более 100 тыс.+ Университет",
+      "link": "https://youtu.be/BCK3SNA17og",
+      "bundesId": "Niedersachsen"
+    },
+    {
+      "id": 17,
+      "name": "Luneburg",
+      "rusName": "Люнебург",
+      "desc": "Хайм и контейнера.",
+      "link": "https://youtu.be/onbhs6YOHHw",
+      "bundesId": "Niedersachsen"
+    },
+    {
+      "id": 18,
+      "name": "Hannover",
+      "rusName": "Ганновер",
+      "desc": "Cтолица Нижней Саксонии",
+      "link": "https://youtu.be/eQn9eZH1Kts",
+      "bundesId": "Niedersachsen"
+    },
+    {
+      "id": 19,
+      "name": "Bilefeld",
+      "rusName": "Билефельд",
+      "desc": "Более 320 тыс.",
+      "link": "https://youtu.be/SseF0fdPWN4",
+      "bundesId": "Nordrhein"
+    },
+    {
+      "id": 20,
+      "name": "Saarbruken",
+      "rusName": "Саарбрюкен",
+      "desc": "Столица земли Саар",
+      "link": "https://youtu.be/ZLgrDqY2v20",
+      "bundesId": "Saarland"
+    },
+    {
+      "id": 21,
+      "name": "Dresden",
+      "rusName": "Дрезден",
+      "desc": "Столица Саксонии.",
+      "link": "https://youtu.be/kDhcm1OuOrM",
+      "bundesId": "Sachsen"
+    },
+    {
+      "id": 22,
+      "name": "Lubek",
+      "rusName": "Любек",
+      "desc": "Население 220 тыс.(Юнеско)",
+      "link": "https://youtu.be/4zrTlJ8X2I0",
+      "bundesId": "Schleswig"
+    },
+    {
+      "id": 23,
+      "name": "Flensburg",
+      "rusName": "Фленсбург",
+      "desc": "Население 90 тыс.",
+      "link": "https://youtu.be/0ZNdLdC-xPI",
+      "bundesId": "Schleswig"
+    },
+    {
+      "id": 24,
+      "name": "ECKOLSTÄDT",
+      "rusName": "ECKOLSTÄDT (Эккольштедт)",
+      "desc": "Социальная квартира. Маленький город.",
+      "link": "https://youtu.be/B87V8VtID2s",
+      "bundesId": "Thuringen"
+    },
+    {
+      "id": 25,
+      "name": "BadZulca",
+      "rusName": "Бад-Зульца",
+      "desc": "Маленький город-курорт.",
+      "link": "https://youtu.be/v5QBg3AHmOw",
+      "bundesId": "Thuringen"
+    },
+    {
+      "id": 26,
+      "name": "Altenburg",
+      "rusName": "Альтенбург",
+      "desc": "32 тыс. 45км. до Лейпцига.",
+      "link": "https://youtu.be/vBK3H7j8NK8",
+      "bundesId": "Thuringen"
+    },
+    {
+      "id": 27,
+      "name": "Roneburg",
+      "rusName": "Роннебург",
+      "desc": "Социальная квартира 7 км. Гера.",
+      "link": "https://youtu.be/OacqrTe4GdE",
+      "bundesId": "Thuringen"
+    }
+  ],
+  "bundesland": [
+    {
+      "name": "Baden-Württemberg",
+      "rusName": "Баден-Вюртемберг",
+      "id": "Baden"
+    },
+    {
+      "name": "Bayern",
+      "rusName": "Бавария",
+      "id": "Bayern"
+    },
+    {
+      "name": "Berlin",
+      "rusName": "Берлин",
+      "id": "Berlin"
+    },
+    {
+      "name": "Brandenburg",
+      "rusName": "Бранденбург",
+      "id": "Brandenburg"
+    },
+    {
+      "name": "Bremen",
+      "rusName": "Бремен",
+      "id": "Bremen"
+    },
+    {
+      "name": "Hamburg",
+      "rusName": "Гамбург",
+      "id": "Hamburg"
+    },
+    {
+      "name": "Hessen",
+      "rusName": "Гессен",
+      "id": "Hessen"
+    },
+    {
+      "name": "Mecklenburg — Vorpommern",
+      "rusName": "Мекленбург — Передняя Померания",
+      "id": "Mecklenburg"
+    },
+    {
+      "name": "Niedersachsen",
+      "rusName": "Нижняя Саксония",
+      "id": "Niedersachsen"
+    },
+    {
+      "name": "Nordrhein — Westfalen",
+      "rusName": "Северный Рейн — Вестфалия",
+      "id": "Nordrhein"
+    },
+    {
+      "name": "Rheinland-Pfalz",
+      "rusName": "Рейнланд-Пфальц",
+      "id": "Rheinland"
+    },
+    {
+      "name": "Saarland",
+      "rusName": "Саар",
+      "id": "Saarland"
+    },
+    {
+      "name": "Sachsen",
+      "rusName": "Саксония",
+      "id": "Sachsen"
+    },
+    {
+      "name": "Sachsen-Anhalt",
+      "rusName": "Саксония-Анхальт",
+      "id": "Anhalt"
+    },
+    {
+      "name": "Schleswig-Holstein",
+      "rusName": "Шлезвиг-Гольштейн",
+      "id": "Schleswig"
+    },
+    {
+      "name": "Thuringen",
+      "rusName": "Тюрингия",
+      "id": "Thuringen"
+    }
+  ]
+}
