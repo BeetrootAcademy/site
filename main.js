@@ -56,26 +56,45 @@ const buildMenu = (items) => {
   }
 };
 
+const getImageOrFallback = (source, fallback) => {
+  return fetch(source, { method: 'HEAD' })
+      .then(res => {
+        if (res.ok) {
+          return source
+        } else {
+          return fallback
+        }
+      }).catch(err => console.log('Error:', err));
+};
+
 const buildHeimList = (items) => {
   const container = document.getElementById('heimContainer');
 
   for (let i = 0; i < items.length; i++) {
-    let image = "img/" + items[i].bundesId + "/" + items[i].name + ".png";
-    let item = `<div class="blocks_item ${ items[i].bundesId }">
+    let image = "img/" + items[i].bundesId + "/" + items[i].name + ".png",
+        videoLink = '';
+
+    if (items[i].link !== '#') {
+      videoLink = `<a href="${ items[i].link }" class="btn btn-primary">Смотреть YouTube</a>`;
+    }
+
+    getImageOrFallback(image, 'img/card-avatar.jpg').then(validSrc => {
+      let item = `<div class="blocks_item ${ items[i].bundesId }">
                   <div class="item">
                     <div class="card">
-                      <img src="${ image }" class="card-img-top" alt="${ items[i].name }">
+                      <img src="${ validSrc }" class="card-img-top" alt="${ items[i].name }">
                       <div class="card-body">
                         <h5 class="card-title">${ items[i].rusName }</h5>
                         <p class="card-text">${ items[i].desc }</p>
-                        <a href="${ items[i].link }" class="btn btn-primary">Смотреть YouTube</a>
+                        ${ videoLink }
                       </div>
                     </div>
                   </div>
                 </div>
     `;
 
-    container.innerHTML += item
+      container.innerHTML += item
+    });
   }
 };
 
