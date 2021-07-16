@@ -223,6 +223,918 @@
       "desc": "Социальная квартира 7 км. Гера.",
       "link": "https://youtu.be/OacqrTe4GdE",
       "bundesId": "Thuringen"
+    },
+    {
+      "id": 28,
+      "name": "Berlin",
+      "rusName": "Берлин",
+      "desc": "Marzahn/Hellersdorf. Был плохой отзыв про этот хайм. Да, это контейнеры.",
+      "link": "#",
+      "bundesId": "Berlin"
+    },
+    {
+      "id": 29,
+      "name": "Berlin",
+      "rusName": "Берлин",
+      "desc": "Хайм на Trachenbergring - неплохой.",
+      "link": "https://www.youtube.com/watch?v=y97BLV4AHcI&t=1200s",
+      "bundesId": "Berlin"
+    },
+    {
+      "id": 30,
+      "name": "Berlin",
+      "rusName": "Берлин",
+      "desc": "Хайм на Marienfelder Allee - в основном беженцы.",
+      "link": "#",
+      "bundesId": "Berlin"
+    },
+    {
+      "id": 31,
+      "name": "Berlin",
+      "rusName": "Берлин",
+      "desc": "alfred-randt St, это дом из контейнеров, условия плохие, сплошные беженцы.",
+      "link": "#",
+      "bundesId": "Berlin"
+    },
+    {
+      "id": 32,
+      "name": "Berlin",
+      "rusName": "Берлин",
+      "desc": "alfred-randt St, это дом из контейнеров, условия плохие, сплошные беженцы.",
+      "link": "#",
+      "bundesId": "Berlin"
+    },
+    {
+      "id": 33,
+      "name": "Hamburg",
+      "rusName": "Гамбург",
+      "desc": "Volksdorfer Grenzweg. Хайм хороший",
+      "link": "#",
+      "bundesId": "Hamburg"
+    },
+    {
+      "id": 34,
+      "name": "Hamburg",
+      "rusName": "Гамбург",
+      "desc": "Харбург на Левенверден чистые теплые контейнеры по типу квартир",
+      "link": "#",
+      "bundesId": "Hamburg"
+    },
+    {
+      "id": 35,
+      "name": "Hamburg",
+      "rusName": "Гамбург",
+      "desc": "Barmbek-Süd, Holsteinischer Kamp типа общаги, но сравнительно чисто",
+      "link": "#",
+      "bundesId": "Hamburg"
+    },
+    {
+      "id": 36,
+      "name": "Hamburg",
+      "rusName": "Гамбург",
+      "desc": "Billstedt на Mattkamp. Плохие условия.",
+      "link": "#",
+      "bundesId": "Hamburg"
+    },
+    {
+      "id": 37,
+      "name": "Hamburg",
+      "rusName": "Гамбург",
+      "desc": "Bergedorf район, Curslaker Noer Deich улица.Хайм нормальный.",
+      "link": "#",
+      "bundesId": "Hamburg"
+    },
+    {
+      "id": 38,
+      "name": "Hamburg",
+      "rusName": "Гамбург",
+      "desc": "Район Намм , Айфештрассе . Недалеко от центра города. Хайм нормальный",
+      "link": "#",
+      "bundesId": "Hamburg"
+    },
+    {
+      "id": 39,
+      "name": "Bremen",
+      "rusName": "Бремен",
+      "desc": "Хайм отличный, все чистенькое, аккурантое",
+      "link": "#",
+      "bundesId": "Bremen"
+    },
+    {
+      "id": 40,
+      "name": "Bremerhaven",
+      "rusName": "Бремерхафен",
+      "desc": "Много пустых квартир которые стоят месяцами.",
+      "link": "#",
+      "bundesId": "Bremen"
+    },
+    {
+      "id": 41,
+      "name": "Straslund",
+      "rusName": "Штраслунд",
+      "desc": "С жильём не проблема, красивый альтштадт.",
+      "link": "#",
+      "bundesId": "Mecklenburg"
+    },
+    {
+      "id": 42,
+      "name": "Rostok",
+      "rusName": "Росток",
+      "desc": "Дома советской постройки, но они внутри уютные.",
+      "link": "#",
+      "bundesId": "Mecklenburg"
+    },
+    {
+      "id": 43,
+      "name": "Güstrow",
+      "rusName": "Гюстров",
+      "desc": "Всё необходимое есть - школы, садики.",
+      "link": "#",
+      "bundesId": "Mecklenburg"
+    },
+    {
+      "id": 44,
+      "name": "Gadebusch",
+      "rusName": "Гадебуш",
+      "desc": "Экологически чистый регион.",
+      "link": "#",
+      "bundesId": "Mecklenburg"
+    },
+    {
+      "id": 45,
+      "name": "Kürten",
+      "rusName": "Кюртен",
+      "desc": "Квартира 30 км от Кельна в деревушке",
+      "link": "#",
+      "bundesId": "Nordrhein"
+    },
+    {
+      "id": 46,
+      "name": "Kürten",
+      "rusName": "Кюртен",
+      "desc": "Квартира 30 км от Кельна в деревушке",
+      "link": "#",
+      "bundesId": "Nordrhein"
+    },
+    {
+      "id": 47,
+      "name": "Iserlohn",
+      "rusName": "Изерлон",
+      "desc": "Хайм-кухня,душевая,туалет-общие с нашими соседями",
+      "link": "#",
+      "bundesId": "Nordrhein"
+    },
+    {
+      "id": 48,
+      "name": "Iserlohn",
+      "rusName": "Изерлон",
+      "desc": "Жили в однокомнатной квартире от города, очень быстро нашли квартиру.",
+      "link": "#",
+      "bundesId": "Nordrhein"
+    },
+    {
+      "id": 49,
+      "name": "Bonn",
+      "rusName": "Бонн",
+      "desc": "Хайм вместе с людьми из Афганистана, Курдистана, Африки и Сирии",
+      "link": "#",
+      "bundesId": "Nordrhein"
+    },
+    {
+      "id": 50,
+      "name": "Bonn",
+      "rusName": "Бонн",
+      "desc": "Хайм контейнер вместе с людьми из Афганистана, Курдистана, Африки и Сирии",
+      "link": "#",
+      "bundesId": "Nordrhein"
+    },
+    {
+      "id": 51,
+      "name": "Siegburg",
+      "rusName": "Зигбург",
+      "desc": "Хайм с квартирой тяжело. От Бонна 10 км, от Кёльна 25 км",
+      "link": "#",
+      "bundesId": "Nordrhein"
+    },
+    {
+      "id": 52,
+      "name": "Köln",
+      "rusName": "Кёльн",
+      "desc": "Хайм в Delbruck. Комната одноместная, с кроватью, кухонной стойкой, раковиной.",
+      "link": "#",
+      "bundesId": "Nordrhein"
+    },
+    {
+      "id": 53,
+      "name": "Bochum",
+      "rusName": "Бохум",
+      "desc": "Поселили сразу в соц.квартиру.",
+      "link": "#",
+      "bundesId": "Nordrhein"
+    },
+    {
+      "id": 54,
+      "name": "Lemgo",
+      "rusName": "Лемго",
+      "desc": "Хайм в соседней деревне (1 тыс. жителей), за продуктами 5 км пешком в город.",
+      "link": "#",
+      "bundesId": "Nordrhein"
+    },
+    {
+      "id": 55,
+      "name": "Neuss",
+      "rusName": "Нойс",
+      "desc": "Хайм нормальный 15 км от Дюссельдорфа",
+      "link": "#",
+      "bundesId": "Nordrhein"
+    },
+    {
+      "id": 56,
+      "name": "Duisburg",
+      "rusName": "Дуйсбург",
+      "desc": "Хаймы разные(очень хороших нет) и их 3-4. Квартиру найти возможно. ",
+      "link": "#",
+      "bundesId": "Nordrhein"
+    },
+    {
+      "id": 57,
+      "name": "Essen",
+      "rusName": "Эссен",
+      "desc": "Хайм чистый,пока живём одни в 3к квартире.",
+      "link": "#",
+      "bundesId": "Nordrhein"
+    },
+    {
+      "id": 58,
+      "name": "Detmold",
+      "rusName": "Детмольд",
+      "desc": "Социальное жилье временное, документы оформили очень быстро",
+      "link": "#",
+      "bundesId": "Nordrhein"
+    },
+    {
+      "id": 59,
+      "name": "Troisdorf",
+      "rusName": "Тройсдорф",
+      "desc": "Все амты и курсы рядом с хаймом, это центр города.",
+      "link": "#",
+      "bundesId": "Nordrhein"
+    },
+    {
+      "id": 60,
+      "name": "Greven",
+      "rusName": "Гревен",
+      "desc": "Возле Мюнстера и жилье и работу найти реально.",
+      "link": "#",
+      "bundesId": "Nordrhein"
+    },
+    {
+      "id": 61,
+      "name": "Münster",
+      "rusName": "Мюнстер",
+      "desc": "Казармы 3 недели, потом Нотвонунг кухня душ и туалет, все своё",
+      "link": "#",
+      "bundesId": "Nordrhein"
+    },
+    {
+      "id": 62,
+      "name": "Aachen",
+      "rusName": "Аахен",
+      "desc": "Хайм, везде чистота и порядок, беженцы спокойные, их здесь оч.много.",
+      "link": "#",
+      "bundesId": "Nordrhein"
+    },
+    {
+      "id": 63,
+      "name": "Espelkamp",
+      "rusName": "Эспелькамп",
+      "desc": "Квартира от застройщика для социальщиков",
+      "link": "#",
+      "bundesId": "Nordrhein"
+    },
+    {
+      "id": 64,
+      "name": "Espelkamp",
+      "rusName": "Эспелькамп",
+      "desc": "Вегберг, документы - полторы недели, квартира 1,5 месяца ",
+      "link": "#",
+      "bundesId": "Nordrhein"
+    },
+    {
+      "id": 65,
+      "name": "Bielefeld",
+      "rusName": "Билефельд",
+      "desc": "Много беженцев, проблемы с жильем и в амтах.",
+      "link": "#",
+      "bundesId": "Nordrhein"
+    },
+    {
+      "id": 66,
+      "name": "Peine",
+      "rusName": "Пайне",
+      "desc": "На одну кухню и туалет с ванной 2 семьи",
+      "link": "#",
+      "bundesId": "Niedersachsen"
+    },
+    {
+      "id": 67,
+      "name": "Braunschweig",
+      "rusName": "Брауншвейг",
+      "desc": "Ждать во Фридланде пока будет квартира.",
+      "link": "#",
+      "bundesId": "Niedersachsen"
+    },
+    {
+      "id": 68,
+      "name": "Braunschweig",
+      "rusName": "Брауншвейг",
+      "desc": "Ждать во Фридланде пока будет квартира.",
+      "link": "#",
+      "bundesId": "Niedersachsen"
+    },
+    {
+      "id": 69,
+      "name": "Hannover",
+      "rusName": "Ганновер",
+      "desc": "Ждать во Фридланде пока будет хайм или квартира.",
+      "link": "#",
+      "bundesId": "Niedersachsen"
+    },
+    {
+      "id": 70,
+      "name": "Hannover",
+      "rusName": "Хильдесхайм",
+      "desc": "Поселили в соц.квартиру вместо хайма",
+      "link": "#",
+      "bundesId": "Niedersachsen"
+    },
+    {
+      "id": 71,
+      "name": "Mainz",
+      "rusName": "Майнц",
+      "desc": "Квартиры очеееень дорогие !!! Найти трудно",
+      "link": "#",
+      "bundesId": "Rheinland"
+    },
+    {
+      "id": 72,
+      "name": "Hermeskeil",
+      "rusName": "Хермескайль",
+      "desc": "Хайм не очень",
+      "link": "#",
+      "bundesId": "Rheinland"
+    },
+    {
+      "id": 73,
+      "name": "Koblenz",
+      "rusName": "Кобленц",
+      "desc": "Хайм плохой, но некоторых селят в квартиру.",
+      "link": "#",
+      "bundesId": "Rheinland"
+    },
+    {
+      "id": 74,
+      "name": "Wiesbaden",
+      "rusName": "Висбаден",
+      "desc": "Хайм, на 1200 человек, почти все беженцы. Комната с санузлом, кухня общая. ",
+      "link": "#",
+      "bundesId": "Rheinland"
+    },
+    {
+      "id": 75,
+      "name": "Lebach",
+      "rusName": "Лебах",
+      "desc": "Хайм ужасный, но быстро находят квартиру. ",
+      "link": "#",
+      "bundesId": "Saarland"
+    },
+    {
+      "id": 76,
+      "name": "Stuttgart",
+      "rusName": "Штутгарт",
+      "desc": "Хайм - условия ужасные, квартир нет.",
+      "link": "#",
+      "bundesId": "Baden"
+    },
+    {
+      "id": 77,
+      "name": "Calw",
+      "rusName": "Кальв",
+      "desc": "Хайм старенький, заселён только ПП в 45ти км. г.Штуттгарт",
+      "link": "#",
+      "bundesId": "Baden"
+    },
+    {
+      "id": 78,
+      "name": "Ubstadt-Weiher",
+      "rusName": "Убштадт",
+      "desc": "В хайме 5 корпусов, 1 корпус для Spätaussiedler,Карлсруэ 40 минут",
+      "link": "#",
+      "bundesId": "Baden"
+    },
+    {
+      "id": 79,
+      "name": "Heilbronn",
+      "rusName": "Хайльбронн",
+      "desc": "Не во все хаймы приезжают соц. работники, с квартирами проблема",
+      "link": "#",
+      "bundesId": "Baden"
+    },
+    {
+      "id": 80,
+      "name": "Schömberg",
+      "rusName": "Шёмберг",
+      "desc": "Деревня-все амты по соседним городам. Проезд дорогой",
+      "link": "#",
+      "bundesId": "Baden"
+    },
+    {
+      "id": 81,
+      "name": "Freudenstadt",
+      "rusName": "Фройденштадт",
+      "desc": "Бывший отель(пригород), теперь Хайм. Плюс - в комнате свой санузел.",
+      "link": "#",
+      "bundesId": "Baden"
+    },
+    {
+      "id": 82,
+      "name": "Rottweil",
+      "rusName": "Ротвайль",
+      "desc": "Хайм – ужас!",
+      "link": "#",
+      "bundesId": "Baden"
+    },
+    {
+      "id": 83,
+      "name": "Eppingen",
+      "rusName": "Эпинген",
+      "desc": "Хайм в Beilstein бывшем постоялом дворе,домик в 3 этажа, дали весь последний этаж со своей кухней и ванной",
+      "link": "#",
+      "bundesId": "Baden"
+    },
+    {
+      "id": 84,
+      "name": "Aachen",
+      "rusName": "Аахен",
+      "desc": "Один из лучших хаймов в Аахене",
+      "link": "https://youtu.be/LOkXWcCPLmk",
+      "bundesId": "Nordrhein"
+    },
+    {
+      "id": 85,
+      "name": "Ravensburg",
+      "rusName": "Равенсбург крайс",
+      "desc": "Деревня, 5тыс.жителей. Эдека и Норма есть.Проездной 107,50евро.",
+      "link": "#",
+      "bundesId": "Baden"
+    },
+    {
+      "id": 86,
+      "name": "Holzgerlingen",
+      "rusName": "Хольцгерлинген",
+      "desc": "Хайм нормальный только ПП, но квартир нет",
+      "link": "#",
+      "bundesId": "Baden"
+    },
+    {
+      "id": 87,
+      "name": "Weinstadt",
+      "rusName": "Вайнштадт",
+      "desc": "Под Штутгартом, условия жизни -барак с беженцами",
+      "link": "#",
+      "bundesId": "Baden"
+    },
+    {
+      "id": 88,
+      "name": "Gomaringen",
+      "rusName": "Гомаринген",
+      "desc": "Хайм для ПП Тюбинген 5 км, Лидл и Эдека рядом.",
+      "link": "#",
+      "bundesId": "Baden"
+    },
+    {
+      "id": 89,
+      "name": "Zell am Harmersbach",
+      "rusName": "Целль-ам-Хармерсбах",
+      "desc": "Хайм для только для ПП",
+      "link": "#",
+      "bundesId": "Baden"
+    },
+    {
+      "id": 90,
+      "name": "Mosbach Shaafheim",
+      "rusName": "Мосбах Шаафхайм",
+      "desc": "Своя кухня, туалет и душ на 2 семьи. Много беженцев.",
+      "link": "#",
+      "bundesId": "Baden"
+    },
+    {
+      "id": 91,
+      "name": "Rheinfelden",
+      "rusName": "Райнфельден",
+      "desc": "Хайм для ПП отдельный дом. На границе со Швейцарией.",
+      "link": "#",
+      "bundesId": "Baden"
+    },
+    {
+      "id": 92,
+      "name": "Bad Krozingen",
+      "rusName": "Бад Кроцинген",
+      "desc": "Хайм чистый. Рядом Швейцария.",
+      "link": "#",
+      "bundesId": "Baden"
+    },
+    {
+      "id": 93,
+      "name": "München",
+      "rusName": "Мюнхен",
+      "desc": "Хайм с сирийцами. Квартир под соц нормы нет.",
+      "link": "#",
+      "bundesId": "Bayern"
+    },
+    {
+      "id": 94,
+      "name": "Kempten",
+      "rusName": "Кемптен",
+      "desc": "Хайм хороший. Красивейший город с видом на Альпы, всё развито. ",
+      "link": "#",
+      "bundesId": "Bayern"
+    },
+    {
+      "id": 95,
+      "name": "Neuendettelsau",
+      "rusName": "Ноендеттельсау",
+      "desc": "40 км Нюрнберг. Хайм для беженцев ПП редкость",
+      "link": "#",
+      "bundesId": "Bayern"
+    },
+    {
+      "id": 96,
+      "name": "Veitsbronn",
+      "rusName": "Файтсбронн",
+      "desc": "Нюрнберг(20 км). Деревушка на 6 тыс - хайм хорош! Семейная комната с кухней, туалетом и душем!",
+      "link": "#",
+      "bundesId": "Bayern"
+    },
+    {
+      "id": 97,
+      "name": "Nürnberg",
+      "rusName": "Нюрнберг",
+      "desc": "Хайм квартирного типа, по 3 комнаты в квартире: на одного, двух и трёх человек.",
+      "link": "#",
+      "bundesId": "Bayern"
+    },
+    {
+      "id": 98,
+      "name": "Oettingen",
+      "rusName": "Эттингене",
+      "desc": "Комнаты квартирного типа со всеми удобствами.",
+      "link": "#",
+      "bundesId": "Bayern"
+    },
+    {
+      "id": 99,
+      "name": "Pocking",
+      "rusName": "Поккинг",
+      "desc": "Комнаты квартирного типа со всеми удобствами.",
+      "link": "#",
+      "bundesId": "Bayern"
+    },
+    {
+      "id": 100,
+      "name": "Landshut",
+      "rusName": "Ландсхут",
+      "desc": "Хайм хороший. Беженцев мало. Квартир нет.",
+      "link": "#",
+      "bundesId": "Bayern"
+    },
+    {
+      "id": 101,
+      "name": "Schweinfurt",
+      "rusName": "Швайнфурт",
+      "desc": "Хайм чистый. Квартиру найти возможно.",
+      "link": "#",
+      "bundesId": "Bayern"
+    },
+    {
+      "id": 102,
+      "name": "Etzenricht",
+      "rusName": "Этценрихт",
+      "desc": "Хайм не очень, но берут с животными.",
+      "link": "#",
+      "bundesId": "Bayern"
+    },
+    {
+      "id": 103,
+      "name": "Neuburg an der Donau",
+      "rusName": "Нойбург на Дунае",
+      "desc": "Квартиру за месяц нашли, работы много",
+      "link": "#",
+      "bundesId": "Bayern"
+    },
+    {
+      "id": 104,
+      "name": "Wertingen",
+      "rusName": "Вертинген",
+      "desc": "Условия хорошие, одни ПП, квартир нет.",
+      "link": "#",
+      "bundesId": "Bayern"
+    },
+    {
+      "id": 105,
+      "name": "Bayreuth",
+      "rusName": "Байройт",
+      "desc": "Хайм на Himmelkronstrasse хороший. Квартиру город дает через 12мес.",
+      "link": "#",
+      "bundesId": "Bayern"
+    },
+    {
+      "id": 106,
+      "name": "Frankfurt am Main",
+      "rusName": "Франкфурт",
+      "desc": "Хайм грязный одни беженцы, квартир под нормы нет.",
+      "link": "#",
+      "bundesId": "Hessen"
+    },
+    {
+      "id": 107,
+      "name": "Kassel",
+      "rusName": "Кассель",
+      "desc": "Хайм квартирного типа, душ и кухня только наши, интернета нет.",
+      "link": "#",
+      "bundesId": "Hessen"
+    },
+    {
+      "id": 108,
+      "name": "Fulda",
+      "rusName": "Фульда",
+      "desc": "В Фульде в Ромерце хайм хороший. Бераторы тоже.",
+      "link": "#",
+      "bundesId": "Hessen"
+    },
+    {
+      "id": 109,
+      "name": "Leinefelde",
+      "rusName": "Лейнефельде",
+      "desc": "Лес, 7 км. до населенного пункта, одни беженцы.",
+      "link": "#",
+      "bundesId": "Thuringen"
+    },
+    {
+      "id": 110,
+      "name": "Meiningen",
+      "rusName": "Майнинген",
+      "desc": "25 км от ДЦ и курсов, хайм в поле,одни беженцы.",
+      "link": "#",
+      "bundesId": "Thuringen"
+    },
+    {
+      "id": 111,
+      "name": "Eisenach",
+      "rusName": "Айзенах",
+      "desc": "Хайм хороший - все рядом, можно найти квартиру.",
+      "link": "#",
+      "bundesId": "Thuringen"
+    },
+    {
+      "id": 112,
+      "name": "Jena",
+      "rusName": "Йена",
+      "desc": "Самая большая напряженка с арендой и поиском жилья в Тюрингии",
+      "link": "#",
+      "bundesId": "Thuringen"
+    },
+    {
+      "id": 113,
+      "name": "Gera",
+      "rusName": "Гера",
+      "desc": "Обеспечивает жильем Социаламт, квартиры есть.",
+      "link": "#",
+      "bundesId": "Thuringen"
+    },
+    {
+      "id": 114,
+      "name": "Erfurt",
+      "rusName": "Эрфурт",
+      "desc": "2 хайма для ПП оба хорошие, квартирного типа, квартиры есть.",
+      "link": "#",
+      "bundesId": "Thuringen"
+    },
+    {
+      "id": 115,
+      "name": "Hildburghausen",
+      "rusName": "Хильдбургхаузен",
+      "desc": "Городок хорош в плане оформления - есть свои амты, очередей нет",
+      "link": "#",
+      "bundesId": "Thuringen"
+    },
+    {
+      "id": 116,
+      "name": "Freital",
+      "rusName": "Фрайталь",
+      "desc": "Сразу соц. квартира, хаймов нет. Рядом Дрезден.",
+      "link": "#",
+      "bundesId": "Sachsen"
+    },
+    {
+      "id": 117,
+      "name": "Dresden",
+      "rusName": "Дрезден",
+      "desc": "Хайм в старом здании на окраине. Квартир много.",
+      "link": "https://youtu.be/oEuA1fPmv9o",
+      "bundesId": "Sachsen"
+    },
+    {
+      "id": 118,
+      "name": "Kamenz",
+      "rusName": "Каменц",
+      "desc": "Рядом Дрезден, рускоговорящая в Landsamt, проблем с жильем нет.",
+      "link": "#",
+      "bundesId": "Sachsen"
+    },
+    {
+      "id": 119,
+      "name": "Pirna",
+      "rusName": "Пирна",
+      "desc": "Дрезден 20 км., соц. квартиры",
+      "link": "#",
+      "bundesId": "Sachsen"
+    },
+    {
+      "id": 120,
+      "name": "Freiberg",
+      "rusName": "Фрайберг",
+      "desc": "Хайм приличный. Через 3 мес. всех расселили по квартирам. ",
+      "link": "#",
+      "bundesId": "Sachsen"
+    },
+    {
+      "id": 121,
+      "name": "Großenhain",
+      "rusName": "Гросенхайн",
+      "desc": "Приличный Хайм. Все в пешей доступности, до Дрездена минут 40 на электричке. ",
+      "link": "#",
+      "bundesId": "Sachsen"
+    },
+    {
+      "id": 122,
+      "name": "Plauen",
+      "rusName": "Плауен",
+      "desc": "Приличный Хайм. Все в пешей доступности, до Дрездена минут 40 на электричке.",
+      "link": "#",
+      "bundesId": "Sachsen"
+    },
+    {
+      "id": 123,
+      "name": "Königswartha",
+      "rusName": "Кёнигсварта",
+      "desc": "Деревня, но зато соц. квартира 17 км. до амтов.",
+      "link": "#",
+      "bundesId": "Sachsen"
+    },
+    {
+      "id": 124,
+      "name": "Aue",
+      "rusName": "Ауэ",
+      "desc": "Ужасный хайм с ужасными условиями.",
+      "link": "https://vk.com/bvadeu?w=wall-46433687_1187027%2Fall",
+      "bundesId": "Sachsen"
+    },
+    {
+      "id": 125,
+      "name": "Hamburg",
+      "rusName": "Гамбург",
+      "desc": "Хайм на Auf dem Zülzbrack 1 очень даже не плох,достаточно тихо и спокойно, в доступности есть все!!!.",
+      "link": "https://vk.com/video-46433687_456239642?list=03fae3b02f63fe243b",
+      "bundesId": "Hamburg"
+    },
+    {
+      "id": 126,
+      "name": "Karlsruhe",
+      "rusName": "Карлсруэ",
+      "desc": "Bernsteinstr.13. Комнаты все после капремонта. Туалет ,душевая кабина и кухня в комнате,т.е. отдельные",
+      "link": "#",
+      "bundesId": "Baden"
+    },
+    {
+      "id": 127,
+      "name": "Hermeskeil",
+      "rusName": "Хермескайль",
+      "desc": "Очень тяжелые условия",
+      "link": "https://vk.com/video-46433687_456239644?list=afae17af6184f3e9c5",
+      "bundesId": "Baden"
+    },
+    {
+      "id": 128,
+      "name": "Düsseldorf",
+      "rusName": "Дюссельдорф",
+      "desc": "Oberlöricker str. 321. хороший, Nordlicher Zubringer str. 5 нет",
+      "link": "https://vk.com/wall-46433687_676802",
+      "bundesId": "Nordrhein"
+    },
+    {
+      "id": 129,
+      "name": "Trossingen",
+      "rusName": "Троссинген",
+      "desc": "Туттлинген рядом. Три этажа беженцы из ЮАР, антисанитария полная",
+      "link": "#",
+      "bundesId": "Baden"
+    },
+    {
+      "id": 130,
+      "name": "WANDLITZ",
+      "rusName": "Вандлиц",
+      "desc": "WANDLITZER STRASSE 4, Хайм в лесу, 2 км до автобусной остановки в соседней деревне. Магазин в 5 км, сотовая связь не ловит",
+      "link": "https://vk.com/feed?w=wall-46433687_1199967&z=video-46433687_456239650%2Fe6ee0094f6e12dd622%2Fpl_post_-46433687_1201782",
+      "bundesId": "Brandenburg"
+    },
+    {
+      "id": 131,
+      "name": "Zittau",
+      "rusName": "Циттау",
+      "desc": "Нет проблем с квартирами. Переехала через полтора месяца",
+      "link": "#",
+      "bundesId": "Sachsen"
+    },
+    {
+      "id": 132,
+      "name": "Leipzig",
+      "rusName": "Лейпциг",
+      "desc": "Дали сразу временную квартиру в пригороде, город Тауха (10 мин на s-bahn до центра).",
+      "link": "#",
+      "bundesId": "Sachsen"
+    },
+    {
+      "id": 133,
+      "name": "Grimma",
+      "rusName": "Гримма",
+      "desc": "Сразу дали квартиру. Много русскоговорящих в амтах. Рядом Лейпциг",
+      "link": "#",
+      "bundesId": "Sachsen"
+    },
+    {
+      "id": 134,
+      "name": "Bitterfeld-Wolfen",
+      "rusName": "Биттерфельд-Вольфен",
+      "desc": "Сразу дали квартиру. Русскоговорящий соц. работник.",
+      "link": "#",
+      "bundesId": "Anhalt"
+    },
+    {
+      "id": 135,
+      "name": "Magdeburg",
+      "rusName": "Магдебург",
+      "desc": "Нет проблем с квартирами. Школы, садики, университеты все есть.",
+      "link": "#",
+      "bundesId": "Anhalt"
+    },
+    {
+      "id": 136,
+      "name": "Harbke",
+      "rusName": "Харбке",
+      "desc": "Хайм для беженцев в лесу(город 5 км). Для ПП - душ, туалет, кухня все для одной семьи",
+      "link": "#",
+      "bundesId": "Anhalt"
+    },
+    {
+      "id": 137,
+      "name": "Luckenwalde",
+      "rusName": "Луккенвальде",
+      "desc": "Хайм не очень.",
+      "link": "#",
+      "bundesId": "Brandenburg"
+    },
+    {
+      "id": 138,
+      "name": "Lögow",
+      "rusName": "Логов",
+      "desc": "Хайм - условия плохие.",
+      "link": "#",
+      "bundesId": "Brandenburg"
+    },
+    {
+      "id": 139,
+      "name": "Eisenhuttenstadt",
+      "rusName": "Айзенхюттенштадт",
+      "desc": "Квартира со всеми удобствами. Соц. работник.",
+      "link": "#",
+      "bundesId": "Brandenburg"
+    },
+    {
+      "id": 140,
+      "name": "Neuhardenberg",
+      "rusName": "Ноехарденберг",
+      "desc": "Квартира со всеми удобствами. Плохой интернет. Деревня 70 км. Берлин",
+      "link": "#",
+      "bundesId": "Brandenburg"
+    },
+    {
+      "id": 141,
+      "name": "Neumunster",
+      "rusName": "Ноймюнстер",
+      "desc": "Распределительный лагерь 7-14 дней все проходят этот ужас. Дальше квартира и можно выбрать город",
+      "link": "#",
+      "bundesId": "Schleswig"
     }
   ],
   "bundesland": [
